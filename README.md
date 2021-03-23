@@ -1,3 +1,3 @@
 # NSI-binary-tree-height
-Parcours récursif d'un arbre binaire sans TAD (Array 2D) pour connaitre sa hauteur (profondeur)
+Parcours récursif d'un arbre binaire sans TAD (Array 2D) pour connaitre sa hauteur (profondeur)  
 Exercice de Terminale NSI
